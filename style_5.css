@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+  border: 5px solid black;
+  height: 100vh;
+  position: relative;
+}
+
+.one {
+  width: 400px;
+  height: 400px;
+  background-color: red;
+}
+
+.two {
+  width: 300px;
+  height: 300px;
+  background-color: yellow;
+  position: fixed;
+  bottom: 5px;
+  right: 5px;
+}
+
+.three {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  position: relative;
+  top: -200px;
+}
+
+.four {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  position: fixed;
+  top: 5px;
+  left: 5px;
+}

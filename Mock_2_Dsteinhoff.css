@@ -1,0 +1,21 @@
+section {
+    background-color: lightgray;
+    border-radius: 25px;
+    width: 500px;
+}
+
+#cat {
+    width: 500px;
+    height: 300px;
+    border-top-left-radius: 25px;
+    border-top-right-radius: 25px;
+}
+
+section h1 {
+    margin: 10px 10px 10px 25px;
+}
+
+section p {
+    padding: 10px 20px 20px;
+    margin: 5px;
+}
